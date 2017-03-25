@@ -1,6 +1,6 @@
 = "Cupholder" for small jar
 
-<img src="cupholder.jp>
+[![cupholder.jpg](cupholder.jpg)](cupholder.jpg)
 
 Wooden cupholder/handle for a Mason jar. For lasering on laser cutter. Use playwood 12mm (speed 5, power 50). 
 
