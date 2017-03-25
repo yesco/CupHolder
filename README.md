@@ -1,4 +1,4 @@
-= "Cupholder" for small jar
+# "Cupholder" for small jar
 
 [![cupholder.jpg](cupholder.jpg)](cupholder.jpg)
 
@@ -6,7 +6,7 @@ Wooden cupholder/handle for a Mason jar. For lasering on laser cutter. Use playw
 
 Use cup-fix.svg thus cup-fix.dxf for lasering.
 
-== create dxf
+## create dxf
 
 - inkskape
 - load svg
